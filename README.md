@@ -25,7 +25,7 @@
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/AsmitaYadav1008/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
   
-  **3** Create Profit and Loss (P&L) reports by _[Months]_(
+  **3** Create Profit and Loss (P&L) reports by _[Months]_(https://github.com/AsmitaYadav1008/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Month.pdf)_
   
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
